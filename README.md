@@ -8,7 +8,6 @@ This project is a responsive landing page developed for **Sammunat** as part of 
 ## Table of Contents
 
 - [Project Overview](#project-overview)  
-- [Technologies Used](#technologies-used)  
 - [Features](#features)  
 - [Deployment](#deployment)  
 - [How to Run Locally](#how-to-run-locally)  
@@ -20,14 +19,7 @@ This project is a responsive landing page developed for **Sammunat** as part of 
 
 The landing page is designed to provide an engaging first impression for Sammunat’s services. It includes modern design elements, responsive layouts, and links to company social media channels.  
 
----
 
-## Technologies Used
-
-- **React.js** – For building the frontend  
-- **CSS3 / Flexbox / Grid** – For responsive styling  
-- **React Router** – For handling navigation (if used)  
-- **Netlify / Render / Vercel** – For deployment (free hosting platform)  
 
 ---
 
@@ -52,13 +44,13 @@ The landing page is deployed on a free hosting platform. You can access it here:
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/your-username/sammunat-landing-page.git
+git clone [https://github.com/your-username/sammunat-landing-page.git](https://github.com/Yogeshwari1703/react_landing_page/)
 ````
 
 2. Navigate to the project directory:
 
 ```bash
-cd sammunat-landing-page
+cd react_landing_page
 ```
 
 3. Install dependencies:
