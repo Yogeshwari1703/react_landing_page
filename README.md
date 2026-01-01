@@ -76,7 +76,3 @@ Full Stack Development Enthusiast | React.js Developer
 
 ---
 
-```
-
-This README is **clear, professional, and complete**, and anyone reviewing your assignment will know how to run and access your landing page.  
-
